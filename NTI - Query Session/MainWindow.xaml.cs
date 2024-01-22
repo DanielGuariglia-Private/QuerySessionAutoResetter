@@ -22,7 +22,7 @@ namespace NTI___Query_Session
     {
         private DispatcherTimer timer;
         private int countdownValue;
-
+        private string AdminUsername = "Administrator";
         public MainWindow()
         {
             InitializeComponent();
@@ -160,7 +160,7 @@ namespace NTI___Query_Session
                         }
                         int numId;
                         //se contiene un id numerico e lo astato è o Attivo o Disc lo aggiungo
-                        if(int.TryParse(id, out numId) && (status.Equals("Attivo") || status.Equals("Disc")))
+                        if(!username.Equals(this.AdminUsername) && int.TryParse(id, out numId) && (status.Equals("Attivo") || status.Equals("Disc")))
                         {
                             sessionListBox.Items.Add(label);
 
