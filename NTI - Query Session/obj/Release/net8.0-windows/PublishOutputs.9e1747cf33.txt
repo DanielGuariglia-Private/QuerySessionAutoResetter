@@ -1,0 +1,5 @@
+D:\D\Repositories\NTI-QuerySessionResetter\NTI - Query Session\NTI - Query Session\bin\Release\net8.0-windows\publish\NTI - Query Session.exe
+D:\D\Repositories\NTI-QuerySessionResetter\NTI - Query Session\NTI - Query Session\bin\Release\net8.0-windows\publish\NTI - Query Session.dll
+D:\D\Repositories\NTI-QuerySessionResetter\NTI - Query Session\NTI - Query Session\bin\Release\net8.0-windows\publish\NTI - Query Session.deps.json
+D:\D\Repositories\NTI-QuerySessionResetter\NTI - Query Session\NTI - Query Session\bin\Release\net8.0-windows\publish\NTI - Query Session.runtimeconfig.json
+D:\D\Repositories\NTI-QuerySessionResetter\NTI - Query Session\NTI - Query Session\bin\Release\net8.0-windows\publish\NTI - Query Session.pdb

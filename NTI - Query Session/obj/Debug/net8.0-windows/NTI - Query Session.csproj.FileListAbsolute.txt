@@ -1,0 +1,20 @@
+D:\D\Repositories\NTI-QuerySessionResetter\NTI - Query Session\NTI - Query Session\bin\Debug\net8.0-windows\NTI - Query Session.exe
+D:\D\Repositories\NTI-QuerySessionResetter\NTI - Query Session\NTI - Query Session\bin\Debug\net8.0-windows\NTI - Query Session.deps.json
+D:\D\Repositories\NTI-QuerySessionResetter\NTI - Query Session\NTI - Query Session\bin\Debug\net8.0-windows\NTI - Query Session.runtimeconfig.json
+D:\D\Repositories\NTI-QuerySessionResetter\NTI - Query Session\NTI - Query Session\bin\Debug\net8.0-windows\NTI - Query Session.dll
+D:\D\Repositories\NTI-QuerySessionResetter\NTI - Query Session\NTI - Query Session\bin\Debug\net8.0-windows\NTI - Query Session.pdb
+D:\D\Repositories\NTI-QuerySessionResetter\NTI - Query Session\NTI - Query Session\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\D\Repositories\NTI-QuerySessionResetter\NTI - Query Session\NTI - Query Session\obj\Debug\net8.0-windows\App.g.cs
+D:\D\Repositories\NTI-QuerySessionResetter\NTI - Query Session\NTI - Query Session\obj\Debug\net8.0-windows\NTI - Query Session_MarkupCompile.cache
+D:\D\Repositories\NTI-QuerySessionResetter\NTI - Query Session\NTI - Query Session\obj\Debug\net8.0-windows\NTI - Query Session_MarkupCompile.lref
+D:\D\Repositories\NTI-QuerySessionResetter\NTI - Query Session\NTI - Query Session\obj\Debug\net8.0-windows\MainWindow.baml
+D:\D\Repositories\NTI-QuerySessionResetter\NTI - Query Session\NTI - Query Session\obj\Debug\net8.0-windows\NTI - Query Session.g.resources
+D:\D\Repositories\NTI-QuerySessionResetter\NTI - Query Session\NTI - Query Session\obj\Debug\net8.0-windows\NTI - Query Session.GeneratedMSBuildEditorConfig.editorconfig
+D:\D\Repositories\NTI-QuerySessionResetter\NTI - Query Session\NTI - Query Session\obj\Debug\net8.0-windows\NTI - Query Session.AssemblyInfoInputs.cache
+D:\D\Repositories\NTI-QuerySessionResetter\NTI - Query Session\NTI - Query Session\obj\Debug\net8.0-windows\NTI - Query Session.AssemblyInfo.cs
+D:\D\Repositories\NTI-QuerySessionResetter\NTI - Query Session\NTI - Query Session\obj\Debug\net8.0-windows\NTI - Query Session.csproj.CoreCompileInputs.cache
+D:\D\Repositories\NTI-QuerySessionResetter\NTI - Query Session\NTI - Query Session\obj\Debug\net8.0-windows\NTI - Query Session.dll
+D:\D\Repositories\NTI-QuerySessionResetter\NTI - Query Session\NTI - Query Session\obj\Debug\net8.0-windows\refint\NTI - Query Session.dll
+D:\D\Repositories\NTI-QuerySessionResetter\NTI - Query Session\NTI - Query Session\obj\Debug\net8.0-windows\NTI - Query Session.pdb
+D:\D\Repositories\NTI-QuerySessionResetter\NTI - Query Session\NTI - Query Session\obj\Debug\net8.0-windows\NTI - Query Session.genruntimeconfig.cache
+D:\D\Repositories\NTI-QuerySessionResetter\NTI - Query Session\NTI - Query Session\obj\Debug\net8.0-windows\ref\NTI - Query Session.dll

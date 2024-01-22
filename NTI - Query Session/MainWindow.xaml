@@ -1,0 +1,19 @@
+﻿<Window x:Class="NTI___Query_Session.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:NTI___Query_Session"
+        mc:Ignorable="d"
+        Title="Query Session Monitor" Height="500" Width="1000">
+    <Grid Margin="0,0,0,0">
+        <TextBlock HorizontalAlignment="Left" Margin="32,24,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="172" FontSize="20" Height="29"><Run Text="Sessioni"/><LineBreak/><Run/></TextBlock>
+        <TextBlock HorizontalAlignment="Left" Margin="31,227,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="175" FontSize="20" Text="Cronologia"/>
+        <Label x:Name="countdownLabel" Content="00" Margin="454,385,461,7" Width="85" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" FontWeight="Bold" FontSize="20"/>
+        <Label Content="Prossimo Controllo" Margin="422,340,0,0" Height="59" Width="153" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" FontWeight="Bold" FontSize="15" HorizontalAlignment="Left" VerticalAlignment="Top"/>
+        <ListBox x:Name="sessionListBox" d:ItemsSource="{d:SampleData ItemCount=5}" Margin="0,60,0,0" Width="940" Height="157" HorizontalAlignment="Center" VerticalAlignment="Top"/>
+        <ListBox x:Name="Cronologia" d:ItemsSource="{d:SampleData ItemCount=5}" Margin="0,259,0,0" Width="940" Height="98" HorizontalAlignment="Center" VerticalAlignment="Top"
+                 />
+
+    </Grid>
+</Window>
